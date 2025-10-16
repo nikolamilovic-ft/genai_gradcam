@@ -2,7 +2,16 @@
 
 Generate GradCAM heatmaps to visualize which regions of an image the model focuses on for classification.
 
-## Requirements
+## Setup
+
+### 1. Download Required Data
+
+**Mandatory:** Download the pre-trained model and dataset from:
+[Google Drive - GradCAM Data](https://drive.google.com/drive/folders/1JDGgYDrGi_uFfukEwzrxoy-iB_P0Piei?usp=sharing)
+
+Extract the contents into the project directory.
+
+### 2. Install Requirements
 
 ```bash
 python3.10 -m venv venv
