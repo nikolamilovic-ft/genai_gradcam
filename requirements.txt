@@ -1,0 +1,6 @@
+torch>=1.7
+torchvision
+pyyaml
+huggingface_hub
+timm
+matplotlib
